@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3976380d7a0062d4ea49255bbde0bf14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nodePrefab: {fileID: 1044646548435266608, guid: 1eb4c6cb663e4214e825ade16fbb2e50, type: 3}
+  - lineMaterial: {fileID: 2100000, guid: b6845e5c64ba9b24db1475e10d3fde74, type: 2}
+  - nodeEffectPrefab: {instanceID: 0}
+  - packetEffectPrefab: {fileID: 7907564295503420320, guid: 118ab124615f12d489f7b58d3e60cdc7, type: 3}
+  - tcpMaterial: {instanceID: 0}
+  - udpMaterial: {fileID: 2100000, guid: b6845e5c64ba9b24db1475e10d3fde74, type: 2}
+  - defaultMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

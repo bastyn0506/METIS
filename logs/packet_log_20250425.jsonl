@@ -1,0 +1,13 @@
+{"timestamp": "2025-04-25 23:55:49", "test": "初期動作確認ログ"}
+{"type": "packet", "src": "0.0.0.0", "dst": "255.255.255.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 342, "src_port": 68, "dst_port": 67, "payload": null}
+{"type": "packet", "src": "172.16.15.1", "dst": "255.255.255.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 590, "src_port": 67, "dst_port": 68, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.16.15.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 110, "src_port": 137, "dst_port": 137, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.16.15.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 110, "src_port": 137, "dst_port": 137, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.16.15.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 110, "src_port": 137, "dst_port": 137, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.64.144.52", "src_country": "Unknown", "dst_country": null, "protocol": "UDP", "size": 83, "src_port": 65076, "dst_port": 443, "payload": "560103f0ead8f79dc02d010bea99f7882a460ca13e66178c389aa61adf02ff5590e689a95f1f3873c4"}
+{"type": "packet", "src": "172.16.15.19", "dst": "224.0.0.22", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "Other", "size": 54, "src_port": null, "dst_port": null, "payload": "2200f9010000000104000000e00000fc"}
+{"type": "packet", "src": "172.16.15.19", "dst": "224.0.0.22", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "Other", "size": 54, "src_port": null, "dst_port": null, "payload": "2200fa010000000103000000e00000fc"}
+{"type": "packet", "src": "172.16.15.19", "dst": "224.0.0.22", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "Other", "size": 54, "src_port": null, "dst_port": null, "payload": "2200f9020000000104000000e00000fb"}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.16.15.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 110, "src_port": 137, "dst_port": 137, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.16.15.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 110, "src_port": 137, "dst_port": 137, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "172.16.15.255", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 110, "src_port": 137, "dst_port": 137, "payload": null}
