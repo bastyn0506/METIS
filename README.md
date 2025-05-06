@@ -58,7 +58,6 @@ https://youtu.be/-eKr9tY0Bhc
 
 ---
 
-## 📁 ディレクトリ構成
 
 開発環境
 Unity 2022.x
@@ -69,7 +68,7 @@ Scapy
 
 WebSocket (Flask / aiohttp)
 
-OS: Windows / Linux対応（WSL確認済み）
+OS: Windows 
 
 
 
