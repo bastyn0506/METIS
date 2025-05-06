@@ -52,12 +52,9 @@ Unityによってネットワークノードと通信の流れを可視化し、
 
 ---
 
-## 📽️ デモ動画
+## 📽️ デモ動画はこちら！
 
-[![Demo Video](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ID)
-
-※ `YOUTUBE_ID` を実際のYouTube動画のIDに置き換えてください  
-（URLの末尾：`https://www.youtube.com/watch?v=dQw4w9WgXcQ` → `dQw4w9WgXcQ`）
+https://youtu.be/-eKr9tY0Bhc
 
 ---
 
