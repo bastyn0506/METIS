@@ -4,6 +4,7 @@ METIS は、家庭ネットワークや教育環境におけるネットワー�
 Unityによってネットワークノードと通信の流れを可視化し、Python（Scapy）でリアルタイムにパケットを監視・解析します。
 開発者への連絡やご意見があれば、お気軽に以下のフォームまたはメールでお知らせください。
 vanson.norton0506@icluod.com
+https://github.com/bastyn0506/METIS/blob/main/README.en.md [English README]
 
 ⚠️ 注意・免責
 このツールは教育・研究用途向けです。実運用環境での使用は自己責任でお願いします。
